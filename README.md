@@ -22,4 +22,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 - Contribuir para projetos open-source.
 - Aprender mais...
 
-Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos! 😊
+Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos!
