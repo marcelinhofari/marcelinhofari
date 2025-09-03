@@ -1,25 +1,31 @@
-# Olá, eu sou Marcelo Farias 👋
+Olá, eu sou Marcelo Farias 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia, programação e por resolver problemas complexos. Atualmente, estou focado em aprender diversas linguagens de programação e desenvolver minhas habilidades em desenvolvimento web e de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou me especializando em desenvolvimento Front-End. Tenho paixão por tecnologia, design e programação, buscando sempre evoluir e criar experiências digitais modernas e funcionais.
 
-## 🛠️ Tecnologias com as quais estou em construção:
+🛠️ Tecnologias e Habilidades
 
-- **Linguagens**: Python, SQL, java
-- **Frameworks e Ferramentas**: React, Node.j, Git
-- **Bancos de Dados**: MySQL, MongoDB
-- **Outros**:  AWS, GitHub Actions, Agile
+Linguagens: JavaScript, HTML, CSS
 
-## 👨‍💻 Sobre mim
+Ferramentas de Design: Figma, Edição de Foto e Vídeo
 
-- Atualmente, estou focando em desenvolvimento **full-stack**. # em analise ainda kkk.
-- Sou apaixonado por criar soluções escaláveis e eficientes.
-- Gosto de trabalhar em projetos open-source e contribuir com comunidades tecnológicas. 
-- No meu tempo livre, gosto de explorar novas tecnologias e acompanhar as tendências da indústria.
+Controle de Versão: Git & GitHub
 
-## 🎯 Meus Objetivos
+👨‍💻 Sobre mim
 
-- Melhorar minhas habilidades em *desenvolvimento**.
-- Contribuir para projetos open-source.
-- Aprender mais...
+Atualmente focado em Front-End.
 
-Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos!tmj
+Apaixonado por transformar ideias em interfaces intuitivas e responsivas.
+
+Busco constantemente aprender novas tecnologias e boas práticas de UI/UX.
+
+Tenho interesse em trabalhar em projetos criativos e inovadores.
+
+🎯 Meus Objetivos
+
+Me tornar um desenvolvedor Front-End cada vez mais completo.
+
+Construir projetos que unam design e funcionalidade.
+
+Continuar aprendendo e compartilhando conhecimento com a comunidade tech.
+
+Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos! 🚀
