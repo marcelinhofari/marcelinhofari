@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente e
 
 ---
 
-## 🛠️ **Tecnologias e Habilidades**
+##  **Tecnologias e Habilidades**
 
 - 💻 **Linguagens**: JavaScript, HTML, CSS  
 - 🎨 **Ferramentas de Design**: Figma, Edição de Foto e Vídeo  
@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente e
 
 ---
 
-## 👨‍💻 **Sobre mim**
+## **Sobre mim**
 
 - Atualmente focado em **Front-End**.  
 - Apaixonado por transformar ideias em interfaces intuitivas e responsivas.  
@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente e
 
 ---
 
-## 🎯 **Meus Objetivos**
+## **Meus Objetivos**
 
 - 📈 Me tornar um desenvolvedor **Front-End** cada vez mais completo.  
 - 🖥️ Construir projetos que unam **design e funcionalidade**.  
