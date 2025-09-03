@@ -1,4 +1,4 @@
-Olá, eu sou Marcelo Farias 👋
+##👋 Olá, eu sou Marcelo Farias
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou me especializando em desenvolvimento Front-End. Tenho paixão por tecnologia, design e programação, buscando sempre evoluir e criar experiências digitais modernas e funcionais.
 
@@ -10,7 +10,7 @@ Ferramentas de Design: Figma, Edição de Foto e Vídeo
 
 Controle de Versão: Git & GitHub
 
-👨‍💻 Sobre mim
+##👨‍💻 Sobre mim
 
 Atualmente focado em Front-End.
 
@@ -20,7 +20,7 @@ Busco constantemente aprender novas tecnologias e boas práticas de UI/UX.
 
 Tenho interesse em trabalhar em projetos criativos e inovadores.
 
-🎯 Meus Objetivos
+##🎯 Meus Objetivos
 
 Me tornar um desenvolvedor Front-End cada vez mais completo.
 
@@ -28,4 +28,4 @@ Construir projetos que unam design e funcionalidade.
 
 Continuar aprendendo e compartilhando conhecimento com a comunidade tech.
 
-Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos! 🚀
+##🔥 Fique à vontade para explorar meus repositórios e contribuir em qualquer um dos meus projetos! 🚀
